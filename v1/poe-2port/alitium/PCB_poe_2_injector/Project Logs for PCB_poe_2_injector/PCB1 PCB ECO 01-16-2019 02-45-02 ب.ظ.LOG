@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=RJ1 Old Footprint=PCBComponent_1 New Footprint=rj45-w57-1
+Change Component Footprint: Designator=RJ2 Old Footprint=PCBComponent_1 New Footprint=rj45-w57-1
+Added Pin To Net: NetName=NetRJ1_1 Pin=RJ1-1
+Added Pin To Net: NetName=NetRJ1_2 Pin=RJ1-2
+Added Pin To Net: NetName=NetRJ1_3 Pin=RJ1-3
+Added Pin To Net: NetName=NetRJ1_6 Pin=RJ1-6
+Added Pin To Net: NetName=NetRJ1_1 Pin=RJ2-1
+Added Pin To Net: NetName=NetRJ1_2 Pin=RJ2-2
+Added Pin To Net: NetName=NetRJ1_3 Pin=RJ2-3
+Added Pin To Net: NetName=VCC1 Pin=RJ2-4
+Added Pin To Net: NetName=VCC1 Pin=RJ2-5
+Added Pin To Net: NetName=NetRJ1_6 Pin=RJ2-6
+Added Pin To Net: NetName=GND1 Pin=RJ2-7
+Added Pin To Net: NetName=GND1 Pin=RJ2-8
+Added Room: Name=Sheet1
