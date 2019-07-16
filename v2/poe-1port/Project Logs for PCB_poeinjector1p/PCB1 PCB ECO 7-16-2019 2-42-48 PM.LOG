@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C1 Old Footprint=SMD_CAP_1206 New Footprint=Cap - 100nF
+Change Component Footprint: Designator=C2 Old Footprint=SMD_CAP_1206 New Footprint=Cap - 100nF
+Added Room: Name=Sheet1
