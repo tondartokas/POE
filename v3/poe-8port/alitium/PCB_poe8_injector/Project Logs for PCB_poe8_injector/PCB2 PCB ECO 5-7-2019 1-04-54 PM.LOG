@@ -1,0 +1,129 @@
+Added Component: Designator=RJ1(rj45-w57-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RJ2(rj45-w57-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RJ3(rj45-w57-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RJ4(rj45-w57-4)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=TX+p4 Pin=RJ1-1
+Added Pin To Net: NetName=TX-p4 Pin=RJ1-2
+Added Pin To Net: NetName=RX+p4 Pin=RJ1-3
+Added Pin To Net: NetName=RX-p4 Pin=RJ1-6
+Added Pin To Net: NetName=TX+p3 Pin=RJ1-9
+Added Pin To Net: NetName=TX+p3 Pin=RJ1-9
+Added Pin To Net: NetName=TX+p3 Pin=RJ1-9
+Added Pin To Net: NetName=TX+p3 Pin=RJ1-9
+Added Pin To Net: NetName=TX+p3 Pin=RJ1-9
+Added Pin To Net: NetName=TX-p3 Pin=RJ1-10
+Added Pin To Net: NetName=TX-p3 Pin=RJ1-10
+Added Pin To Net: NetName=RX+p3 Pin=RJ1-11
+Added Pin To Net: NetName=RX-p3 Pin=RJ1-14
+Added Pin To Net: NetName=TX+p2 Pin=RJ1-17
+Added Pin To Net: NetName=TX-p2 Pin=RJ1-18
+Added Pin To Net: NetName=RX+p2 Pin=RJ1-19
+Added Pin To Net: NetName=RX-p2 Pin=RJ1-22
+Added Pin To Net: NetName=TX+p1 Pin=RJ1-25
+Added Pin To Net: NetName=TX-p1 Pin=RJ1-26
+Added Pin To Net: NetName=RX+p1 Pin=RJ1-27
+Added Pin To Net: NetName=RX-p1 Pin=RJ1-30
+Added Pin To Net: NetName=TX+p1 Pin=RJ2-1
+Added Pin To Net: NetName=TX-p1 Pin=RJ2-2
+Added Pin To Net: NetName=RX+p1 Pin=RJ2-3
+Added Pin To Net: NetName=VCC Pin=RJ2-4
+Added Pin To Net: NetName=VCC Pin=RJ2-5
+Added Pin To Net: NetName=RX-p1 Pin=RJ2-6
+Added Pin To Net: NetName=GND Pin=RJ2-7
+Added Pin To Net: NetName=GND Pin=RJ2-8
+Added Pin To Net: NetName=TX+p2 Pin=RJ2-9
+Added Pin To Net: NetName=TX+p2 Pin=RJ2-9
+Added Pin To Net: NetName=TX+p2 Pin=RJ2-9
+Added Pin To Net: NetName=TX+p2 Pin=RJ2-9
+Added Pin To Net: NetName=TX+p2 Pin=RJ2-9
+Added Pin To Net: NetName=TX-p2 Pin=RJ2-10
+Added Pin To Net: NetName=TX-p2 Pin=RJ2-10
+Added Pin To Net: NetName=RX+p2 Pin=RJ2-11
+Added Pin To Net: NetName=VCC Pin=RJ2-12
+Added Pin To Net: NetName=VCC Pin=RJ2-13
+Added Pin To Net: NetName=RX-p2 Pin=RJ2-14
+Added Pin To Net: NetName=GND Pin=RJ2-15
+Added Pin To Net: NetName=GND Pin=RJ2-16
+Added Pin To Net: NetName=TX+p3 Pin=RJ2-17
+Added Pin To Net: NetName=TX-p3 Pin=RJ2-18
+Added Pin To Net: NetName=RX+p3 Pin=RJ2-19
+Added Pin To Net: NetName=VCC Pin=RJ2-20
+Added Pin To Net: NetName=VCC Pin=RJ2-21
+Added Pin To Net: NetName=RX-p3 Pin=RJ2-22
+Added Pin To Net: NetName=GND Pin=RJ2-23
+Added Pin To Net: NetName=GND Pin=RJ2-24
+Added Pin To Net: NetName=TX+p4 Pin=RJ2-25
+Added Pin To Net: NetName=TX-p4 Pin=RJ2-26
+Added Pin To Net: NetName=RX+p4 Pin=RJ2-27
+Added Pin To Net: NetName=VCC Pin=RJ2-28
+Added Pin To Net: NetName=VCC Pin=RJ2-29
+Added Pin To Net: NetName=RX-p4 Pin=RJ2-30
+Added Pin To Net: NetName=GND Pin=RJ2-31
+Added Pin To Net: NetName=GND Pin=RJ2-32
+Added Pin To Net: NetName=TX+p8 Pin=RJ3-1
+Added Pin To Net: NetName=TX-p8 Pin=RJ3-2
+Added Pin To Net: NetName=RX+p8 Pin=RJ3-3
+Added Pin To Net: NetName=RX-p8 Pin=RJ3-6
+Added Pin To Net: NetName=TX+p7 Pin=RJ3-9
+Added Pin To Net: NetName=TX+p7 Pin=RJ3-9
+Added Pin To Net: NetName=TX+p7 Pin=RJ3-9
+Added Pin To Net: NetName=TX+p7 Pin=RJ3-9
+Added Pin To Net: NetName=TX+p7 Pin=RJ3-9
+Added Pin To Net: NetName=TX-p7 Pin=RJ3-10
+Added Pin To Net: NetName=TX-p7 Pin=RJ3-10
+Added Pin To Net: NetName=RX+p7 Pin=RJ3-11
+Added Pin To Net: NetName=RX-p7 Pin=RJ3-14
+Added Pin To Net: NetName=TX+p6 Pin=RJ3-17
+Added Pin To Net: NetName=TX-p6 Pin=RJ3-18
+Added Pin To Net: NetName=RX+p6 Pin=RJ3-19
+Added Pin To Net: NetName=RX-p6 Pin=RJ3-22
+Added Pin To Net: NetName=TX+p5 Pin=RJ3-25
+Added Pin To Net: NetName=TX-p5 Pin=RJ3-26
+Added Pin To Net: NetName=RX+p5 Pin=RJ3-27
+Added Pin To Net: NetName=RX-p5 Pin=RJ3-30
+Added Pin To Net: NetName=TX+p5 Pin=RJ4-1
+Added Pin To Net: NetName=TX-p5 Pin=RJ4-2
+Added Pin To Net: NetName=RX+p5 Pin=RJ4-3
+Added Pin To Net: NetName=VCC Pin=RJ4-4
+Added Pin To Net: NetName=VCC Pin=RJ4-5
+Added Pin To Net: NetName=RX-p5 Pin=RJ4-6
+Added Pin To Net: NetName=GND Pin=RJ4-7
+Added Pin To Net: NetName=GND Pin=RJ4-8
+Added Pin To Net: NetName=TX+p6 Pin=RJ4-9
+Added Pin To Net: NetName=TX+p6 Pin=RJ4-9
+Added Pin To Net: NetName=TX+p6 Pin=RJ4-9
+Added Pin To Net: NetName=TX+p6 Pin=RJ4-9
+Added Pin To Net: NetName=TX+p6 Pin=RJ4-9
+Added Pin To Net: NetName=TX-p6 Pin=RJ4-10
+Added Pin To Net: NetName=TX-p6 Pin=RJ4-10
+Added Pin To Net: NetName=RX+p6 Pin=RJ4-11
+Added Pin To Net: NetName=VCC Pin=RJ4-12
+Added Pin To Net: NetName=VCC Pin=RJ4-13
+Added Pin To Net: NetName=RX-p6 Pin=RJ4-14
+Added Pin To Net: NetName=GND Pin=RJ4-15
+Added Pin To Net: NetName=GND Pin=RJ4-16
+Added Pin To Net: NetName=TX+p7 Pin=RJ4-17
+Added Pin To Net: NetName=TX-p7 Pin=RJ4-18
+Added Pin To Net: NetName=RX+p7 Pin=RJ4-19
+Added Pin To Net: NetName=VCC Pin=RJ4-20
+Added Pin To Net: NetName=VCC Pin=RJ4-21
+Added Pin To Net: NetName=RX-p7 Pin=RJ4-22
+Added Pin To Net: NetName=GND Pin=RJ4-23
+Added Pin To Net: NetName=GND Pin=RJ4-24
+Added Pin To Net: NetName=TX+p8 Pin=RJ4-25
+Added Pin To Net: NetName=TX-p8 Pin=RJ4-26
+Added Pin To Net: NetName=RX+p8 Pin=RJ4-27
+Added Pin To Net: NetName=VCC Pin=RJ4-28
+Added Pin To Net: NetName=VCC Pin=RJ4-29
+Added Pin To Net: NetName=RX-p8 Pin=RJ4-30
+Added Pin To Net: NetName=GND Pin=RJ4-31
+Added Pin To Net: NetName=GND Pin=RJ4-32
+Added Member To Class: ClassName=Sheet2 Member=Component RJ1 
+Added Member To Class: ClassName=Sheet2 Member=Component RJ2 
+Added Member To Class: ClassName=Sheet2 Member=Component RJ3 
+Added Member To Class: ClassName=Sheet2 Member=Component RJ4 
+Added Room: Name=Sheet2

@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=RJ2-33
+Removed Pin From Net: NetName=GND Pin=RJ2-34
+Removed Pin From Net: NetName=GND Pin=RJ2-35
+Removed Pin From Net: NetName=GND Pin=RJ2-36
+Removed Pin From Net: NetName=GND Pin=RJ2-37
+Removed Pin From Net: NetName=GND Pin=RJ4-33
+Removed Pin From Net: NetName=GND Pin=RJ4-34
+Removed Pin From Net: NetName=GND Pin=RJ4-35
+Removed Pin From Net: NetName=GND Pin=RJ4-36
+Removed Pin From Net: NetName=GND Pin=RJ4-37
+Added Component: Designator=J1(Power Jack)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Adding Date"; Value = "10/21/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Company"; Value = "Personal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Saeid Jorablo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Project Name"; Value = "Laser"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Member To Class: ClassName=Sheet2 Member=Component J1 Power Jack
+Added Room: Name=Sheet2
